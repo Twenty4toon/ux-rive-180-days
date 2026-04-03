@@ -1,0 +1,13 @@
+{
+  "name": "ux-rive-roadmap",
+  "version": "1.0.0",
+  "description": "UX × RIVE 6-Month Pro Roadmap",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
